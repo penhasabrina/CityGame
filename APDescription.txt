@@ -1,0 +1,1 @@
+( ap-description  :name "CityGame" :ap-services (set ( ap-service  :name fipa.mts.mtp.http.std :type fipa.mts.mtp.http.std :addresses (sequence http://andre-Inspiron-5502:7778/acc))))

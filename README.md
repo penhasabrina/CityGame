@@ -1,7 +1,9 @@
 # CityGame
 
 DESENVOLVIMENTO DE COMUNICAÇÃO ENTRE AGENTES DE UM JOGO MULTIAGENTE DE ESTRATÉGIA - CITYGAME - Projeto SUPER ANO 4
+
 Alunas: Laiana de P. Cavalcante, Sabrina A. da Penha, Isabelly Sofia C. de Almeida
+
 Professor: André Cavalcante
 
 
